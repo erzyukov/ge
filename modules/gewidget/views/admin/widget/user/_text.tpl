@@ -1,0 +1,1 @@
+<input class="user_text_input" type="text" name="data[{$field}]" value="{$value}" style="width: 100% !important;" />

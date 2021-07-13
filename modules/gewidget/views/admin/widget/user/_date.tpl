@@ -1,0 +1,2 @@
+<input class="input_date" id="cal_{$field}" type="text" name="data[{$field}]" value="{$value}" readonly="readonly" />
+<a href="#" onclick="return!1;"><img id="cal_{$field}_trigger" src="/rs/admin/images/get_date.jpg" alt="выбрать" title="Выбрать дату" height="16px" /></a>
